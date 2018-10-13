@@ -11,3 +11,5 @@ Basically, a website which can be used by the people in the disaster and out of 
 #Tools
 Web Develepment tools like HTML,CSS,JavaScript for Front end Design
 PHP,SQL for Back end design.
+
+Its an great idea and i really want to contribute in this if you want then plz contact me
